@@ -6,3 +6,6 @@ This file should come before the other files in the directory.
 This file will be the initial readme file.
 
 Introduction
+
+
+Once this project is completed there will be huge benefits to company in short and medium term.
